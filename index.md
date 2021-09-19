@@ -7,29 +7,23 @@
 十分初學還請各位高手不吝指教
 
 ```markdown
-Syntax highlighted code block
+分享類別：
 
-# Header 1
-## Header 2
-### Header 3
+- 旅遊
+- 動漫
+- 韓劇
 
-- Bulleted
-- List
+1. 生活
+2. 運動
 
-1. Numbered
-2. List
+**分享經驗**
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### About
 
-I'm a senior studying at Taoyuan, and I try mt best to do a website by myself!
+I'm a senior studying at Taiwan, and I love to meet new friends!
 
 ### Contact
 
-Instagram:liyc019
+Instagram : liyc019
