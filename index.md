@@ -2,9 +2,9 @@
 
 紀錄生活的點點滴滴
 
-### Welcome to  Blog
+### Welcome to My Blog
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+十分初學還請各位高手不吝指教
 
 ```markdown
 Syntax highlighted code block
